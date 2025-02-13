@@ -12,6 +12,7 @@ const Footer = () => {
     twitter: "https://twitter.com/innosquares",
     youtube: "https://youtube.com/@innosquares"
   };
+  
  
   return (
     <footer className="bg-black text-white">
